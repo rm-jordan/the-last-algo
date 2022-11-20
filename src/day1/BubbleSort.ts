@@ -12,5 +12,7 @@ export default function bubble_sort(arr: number[]): void {
   }
 }
 
+// this sorting algorithm is very rarely used
+
 // https://frontendmasters.com/courses/algorithms/bubble-sort/
 // https://frontendmasters.com/courses/algorithms/implementing-bubble-sort/

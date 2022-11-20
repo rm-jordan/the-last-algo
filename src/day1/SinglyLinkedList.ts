@@ -25,3 +25,5 @@ export default class SinglyLinkedList<T> {
 
 }
 }
+
+//https://frontendmasters.com/courses/algorithms/linked-list-data-structures/
